@@ -1,5 +1,3 @@
-# Projeto---6--Sorteador
-
 <h1>Projeto Play Sorteador</h1>
 
 <h2>Esse foi um projeto que eu aprendi no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>!</h2>
