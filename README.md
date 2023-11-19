@@ -13,4 +13,5 @@
 
 &#128421;
 
-<img width="942" alt="image" src="https://github.com/Thaisa-R/Projeto---6--Sorteador/assets/145076559/60294870-803b-42e4-85de-11eaa73bcc92">
+<img src="https://github.com/Thaisa-R/Projeto---6--Sorteador/assets/145076559/60294870-803b-42e4-85de-11eaa73bcc92"/>
+<img src="https://github.com/Thaisa-R/Projeto-6-Sorteador/assets/145076559/073806e5-3fe6-4d4a-a349-57c8b99a1ad8"/>
