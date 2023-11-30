@@ -4,7 +4,8 @@
     padding: 0;
     margin: 0;
     outline: none;
-}
+ }
+
 
 body {
     background-color: #000000;
@@ -13,30 +14,42 @@ body {
     justify-content: center;
     flex-direction: column;
     min-height: 100vh;
-    margin-top: 30px;
+    border: 3px solid #127782;
     }
 
 .img-sorteio {
-    width: 300px;
+    width: 500px;
 }
 
 h1 {
     color: #147586;
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 60px;
     margin-bottom: 40px;
 }
 
 h2 {
+    color: #EEBE03;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 38px;
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+h3 {
     color: #FFF;
     font-size: 32px;
     font-weight: 400;
     line-height: 38px;
-    display: flex;
+    display: block;
     text-align: center;
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
+
 
 input {
     background-color: #FFF;
@@ -47,14 +60,13 @@ input {
     line-height: 40px;
     font-weight: 500;
     border-radius: 14px;
-    border: 1px solid #000000;
+    border: 3px solid #127685;;
     color: #127685;
     opacity: 0.7;
 }
 
 .input-min {
     margin-right: 55px;
-
 }
 
 button {
@@ -100,6 +112,7 @@ button:active {
         margin: 0 auto;
        
     }
+    
     .input-max {
         width: 250px;
         height: 50px;
@@ -112,7 +125,8 @@ button:active {
     }
 
     .img-sorteio {
-        width: 200px;
+        width: 250px;
+        padding-top: 30px;
     }
 
     h1 {
@@ -121,6 +135,11 @@ button:active {
     }
 
     h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    h3 {
         font-size: 20px;
         text-align: center;
     }
