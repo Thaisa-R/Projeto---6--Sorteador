@@ -1,4 +1,4 @@
-<h1>Projeto Play Sorteador</h1>
+<h1>Projeto PlaySorteador</h1>
 
 <h2>Esse foi um projeto que eu aprendi no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>!</h2>
 <h3>Tecnologias utilizadas:</h3>
@@ -13,5 +13,5 @@
 
 &#128421;
 
-<img src="https://github.com/Thaisa-R/Projeto---6--Sorteador/assets/145076559/60294870-803b-42e4-85de-11eaa73bcc92"/>
-<img src="https://github.com/Thaisa-R/Projeto-6-Sorteador/assets/145076559/073806e5-3fe6-4d4a-a349-57c8b99a1ad8"/>
+<img src="https://github.com/Thaisa-R/Projeto-Play-Sorteador/assets/145076559/d4a444c5-d49a-42d7-96e3-c911afb7afed"/>
+<img src="https://github.com/Thaisa-R/Projeto-Play-Sorteador/assets/145076559/f5e90d1f-2737-4bc8-8e8e-df16ca877bdd"/>
