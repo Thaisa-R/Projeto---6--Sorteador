@@ -18,42 +18,42 @@ body {
     }
 
 .img-sorteio {
-    width: 400px;
+    width: 300px;
 }
 
 h1 {
     color: #147586;
     margin-top: 20px;
-    font-size: 60px;
-    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 10px;
 }
 
 h2 {
     color: #EEBE03;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 400;
     display: block;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 h3 {
     color: #FFF;
-    font-size: 32px;
+    font-size: 30px;
     font-weight: 400;
     display: block;
     text-align: center;
-     margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 
 input {
     background-color: #FFF;
-    width: 330px;
-    height: 70px;
+    width: 230px;
+    height: 50px;
     padding-left: 20px;
-    font-size: 35px;
-    line-height: 40px;
+    font-size: 30px;
     font-weight: 500;
     border-radius: 14px;
     border: 3px solid #127685;;
@@ -67,13 +67,13 @@ input {
 
 button {
     background: #D32800;
-    width: 330px;
-    height: 70px;
+    width: 180px;
+    height: 50px;
     border-radius: 10px;
     color: #FFF;
-    font-weight: 700;
-    font-size: 30px;
-    margin-top: 80px;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 50px;
     border: none;
     cursor: pointer;
 }
@@ -99,7 +99,7 @@ button:active {
     }
 
     .input-min  {
-        width: 250px;
+        width: 230px;
         height: 50px;
         font-size: 20px;
         display: block;
@@ -110,7 +110,7 @@ button:active {
     }
     
     .input-max {
-        width: 250px;
+        width: 230px;
         height: 50px;
         font-size: 20px;
         display: block;
